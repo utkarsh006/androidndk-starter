@@ -45,6 +45,10 @@ class MainActivity : AppCompatActivity() {
         val outBitmap =
             Bitmap.createBitmap(processedPixels, width, height, Bitmap.Config.ARGB_8888)
         binding.imageResult.setImageBitmap(outBitmap)
+
+        // Ask C++ for a text description of this image and show it above the image.
+        val infoText = getImageInfoText(width, height)
+        binding.textFromCpp.text = infoText
     }
 
     private fun loadBitmap(uri: Uri): Bitmap? {
@@ -67,6 +71,12 @@ class MainActivity : AppCompatActivity() {
      * processed) pixels. For now we will just echo them back.
      */
     external fun processImage(pixels: IntArray, width: Int, height: Int): IntArray
+
+    /**
+     * Native method implemented in C++ that returns a textual description that will be displayed
+     * above the image.
+     */
+    external fun getImageInfoText(width: Int, height: Int): String
 
     companion object {
         init {
