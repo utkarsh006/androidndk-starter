@@ -1,6 +1,8 @@
 ### Demo Video
 
-https://github.com/user-attachments/assets/4d8ec48c-7368-48c7-9b96-caa30e043148
+https://github.com/user-attachments/assets/e70b98b6-612d-45d1-bfd7-f8240a107b3f
+
+<br><br>
 
 ### High-Level Design (HLD) – Android NDK Image Processing Demo
 
