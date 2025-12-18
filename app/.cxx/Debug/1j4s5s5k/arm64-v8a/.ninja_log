@@ -1,0 +1,18 @@
+# ninja log v5
+0	1018	1766064603744099770	CMakeFiles/hello.dir/native-lib.cpp.o	9bf2fbf09a3edc5c
+1022	1152	1766064603892631720	/Users/utkarshsaxena/Desktop/ndk/androidndk-starter/hello/app/build/intermediates/cxx/Debug/1j4s5s5k/obj/arm64-v8a/libhello.so	8fc89f9d850bc501
+2	803	1766065435455431242	CMakeFiles/hello.dir/native-lib.cpp.o	9bf2fbf09a3edc5c
+804	933	1766065435590996956	/Users/utkarshsaxena/Desktop/ndk/androidndk-starter/hello/app/build/intermediates/cxx/Debug/1j4s5s5k/obj/arm64-v8a/libhello.so	8fc89f9d850bc501
+2	751	1766065960463239718	CMakeFiles/hello.dir/native-lib.cpp.o	9bf2fbf09a3edc5c
+751	883	1766065960599143473	/Users/utkarshsaxena/Desktop/ndk/androidndk-starter/hello/app/build/intermediates/cxx/Debug/1j4s5s5k/obj/arm64-v8a/libhello.so	8fc89f9d850bc501
+1	915	1766066132574763884	CMakeFiles/hello.dir/native-lib.cpp.o	9bf2fbf09a3edc5c
+918	1084	1766066132753954443	/Users/utkarshsaxena/Desktop/ndk/androidndk-starter/hello/app/build/intermediates/cxx/Debug/1j4s5s5k/obj/arm64-v8a/libhello.so	8fc89f9d850bc501
+2	209	1766067000115477569	CMakeFiles/hello.dir/native-lib.cpp.o	9bf2fbf09a3edc5c
+209	358	1766067000276411797	/Users/utkarshsaxena/Desktop/ndk/androidndk-starter/hello/app/build/intermediates/cxx/Debug/1j4s5s5k/obj/arm64-v8a/libhello.so	8fc89f9d850bc501
+0	17	0	clean	30d876b6d1195cb
+0	392	1766067180792445810	CMakeFiles/hello.dir/native-lib.cpp.o	9bf2fbf09a3edc5c
+393	660	1766067181075281263	/Users/utkarshsaxena/Desktop/ndk/androidndk-starter/hello/app/build/intermediates/cxx/Debug/1j4s5s5k/obj/arm64-v8a/libhello.so	8fc89f9d850bc501
+0	221	1766067515399732890	CMakeFiles/hello.dir/native-lib.cpp.o	9bf2fbf09a3edc5c
+222	417	1766067515599845620	/Users/utkarshsaxena/Desktop/ndk/androidndk-starter/hello/app/build/intermediates/cxx/Debug/1j4s5s5k/obj/arm64-v8a/libhello.so	8fc89f9d850bc501
+0	219	1766067837499346917	CMakeFiles/hello.dir/native-lib.cpp.o	9bf2fbf09a3edc5c
+220	365	1766067837660151727	/Users/utkarshsaxena/Desktop/ndk/androidndk-starter/hello/app/build/intermediates/cxx/Debug/1j4s5s5k/obj/arm64-v8a/libhello.so	8fc89f9d850bc501

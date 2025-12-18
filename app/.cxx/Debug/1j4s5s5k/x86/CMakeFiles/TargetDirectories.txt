@@ -1,0 +1,3 @@
+/Users/utkarshsaxena/Desktop/ndk/androidndk-starter/hello/app/.cxx/Debug/1j4s5s5k/x86/CMakeFiles/hello.dir
+/Users/utkarshsaxena/Desktop/ndk/androidndk-starter/hello/app/.cxx/Debug/1j4s5s5k/x86/CMakeFiles/edit_cache.dir
+/Users/utkarshsaxena/Desktop/ndk/androidndk-starter/hello/app/.cxx/Debug/1j4s5s5k/x86/CMakeFiles/rebuild_cache.dir

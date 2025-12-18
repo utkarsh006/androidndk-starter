@@ -1,0 +1,1 @@
+/Users/utkarshsaxena/Desktop/ndk/androidndk-starter/hello/app/build/intermediates/cxx/Debug/1j4s5s5k/obj/x86
